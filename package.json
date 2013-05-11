@@ -1,0 +1,39 @@
+{
+  "name": "scratch",
+  "version": "0.0.0",
+  "description": "Scratch memory",
+  "main": "scratch.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bit-twiddle": "~0.0.2"
+  },
+  "devDependencies": {
+    "tap": "~0.4.2"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/scratch.git"
+  },
+  "keywords": [
+    "scratch",
+    "typed",
+    "array",
+    "memory",
+    "cache",
+    "hot",
+    "allocation",
+    "garbage",
+    "collector",
+    "temporary",
+    "optimization"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "ab12224f480a8dc44936399506af1055a85b830b"
+}
